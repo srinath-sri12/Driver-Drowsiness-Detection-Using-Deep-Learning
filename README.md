@@ -8,4 +8,5 @@ The Proposed solution is implemented using Python with OpenCV and MobilenetV2, a
     
     ## DATA SET ##
 
-Data set is uploaded in google drive. The link to access data set : https://drive.google.com/drive/folders/1g4DXB2YwOCa-0wnwiEAnXVzhd4cPjjh2?usp=sharing
+Data set is uploaded in google drive.
+The link to access data set : https://drive.google.com/drive/folders/1g4DXB2YwOCa-0wnwiEAnXVzhd4cPjjh2?usp=sharing
