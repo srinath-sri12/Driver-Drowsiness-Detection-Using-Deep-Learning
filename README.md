@@ -10,3 +10,11 @@ The Proposed solution is implemented using Python with OpenCV and MobilenetV2, a
 
 Data set is uploaded in google drive.
 The link to access data set : https://drive.google.com/drive/folders/1g4DXB2YwOCa-0wnwiEAnXVzhd4cPjjh2?usp=sharing
+
+
+       ## TRAINED MODEL ##
+
+Trained model has been uploaded in Google drive....
+To run the project, download and load the trained model from the gdrive.
+
+LINK FOR TRAINED MODEL :  https://drive.google.com/file/d/1-Qhv7IinZJBiEvToIRciskcYmBcmT9zV/view?usp=sharing
